@@ -1,0 +1,4 @@
+server.port=8081
+spring.datasource.connectionProperties = useUnicode = true; characterEncoding = utf-8; 
+spring.datasource.connectionProperties.useUnicode = true
+spring.datasource.connectionProperties.chara
